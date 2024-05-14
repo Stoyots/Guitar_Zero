@@ -23,6 +23,14 @@ Guitar Zero is a beginner-friendly game developed in Lua, created as a first pro
 
 Guitar Zero was developed by a team of three enthusiastic developers over a period of 8 days. Together, we embarked on this coding adventure, learning and growing as we brought our ideas to life.
 
+## Improvements
+
+the game still needs improvements. Many features were discussed by the team during the making of this game. 
+- in the current state, the game needs to be rebooted to replay. we could fix this probleme
+- track choice : make more songs available for the player
+- high score tracker for each song : get some competition going between players
+many more improvements could still be made on this game
+
 ## Let's Rock!
 
 Grab your guitar and dive into the world of Guitar Zero! Whether you're a complete beginner or an aspiring coder, this project is a great way to kickstart your journey into game development. Let the music guide you as you strum your way through this fun and educational experience. 🤘🎶
